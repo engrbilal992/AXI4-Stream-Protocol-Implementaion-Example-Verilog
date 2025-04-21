@@ -1,2 +1,2 @@
-# Vitis HLS (High Level Synthesis) Acceleration
-FPGA acceleration using Vitis HLS: covering C/C++ to hardware synthesis, optimization techniques, and hardware-software co-design workflows.
+# AXI4 Stream Protocol Implementaion Example (Verilog)
+This repository contains a simple Verilog-based implementation of the AXI4-Stream protocol. The design demonstrates how to model streaming data transfer between modules using AXI4-Stream handshaking signals (TVALID, TREADY, TDATA).
