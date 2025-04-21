@@ -1,2 +1,2 @@
-# Vitis HLS (High Level Synthesis) Acceleration Course using Zynq
+# Vitis HLS (High Level Synthesis) Acceleration
 FPGA acceleration using Vitis HLS: covering C/C++ to hardware synthesis, optimization techniques, and hardware-software co-design workflows.
